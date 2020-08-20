@@ -6,7 +6,7 @@
 - :tulip: Check out the graduation project: [ Pflanzy the plant care app <img  alt="Pflanzy" width="15px" src="https://raw.githubusercontent.com/Pflanzy/Pflanzy-mobile-app/master/assets/images/pflanzy-logo.svg" />](https://github.com/Pflanzy/Pflanzy-mobile-app)
 - :mag_right: Looking for an opportunity as a Junior / Intern
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.alisan.dev/)
+[<img align="left" alt="alisan.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.alisan.dev/)
 <a href="https://www.linkedin.com/in/ali-san/" target="_blank"  rel="noopener noreferrer"><img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <br />
 
