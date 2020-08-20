@@ -4,8 +4,8 @@
 
 ### Connect with me
 
-<a href="https://www.alisan.dev/" target="__blank" noopener noreferrer> <img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> </a>
-<a href="https://www.linkedin.com/in/ali-san/" target="__blank" noopener noreferrer><img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.alisan.dev/" target="_blank" noopener noreferrer> <img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> </a>
+<a href="https://www.linkedin.com/in/ali-san/" target="_blank" noopener noreferrer><img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <br />
 
 ### Tech Stack
