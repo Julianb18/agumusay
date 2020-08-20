@@ -5,7 +5,7 @@
 ### Connect with me
 
 [<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://alisan.dev]
-[<img align="left" alt="linkedin" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/ali-san]
+[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/ali-san]
 <br />
 
 ### Tech Stack
