@@ -2,7 +2,7 @@
 
 #### Full-Stack Developer - Constant Learner
 
-- :mortar_board: Recently graduated from [Digital Career Institute <img  alt="DCI" width="30px" src="https://betterplace-assets.betterplace.org/uploads/organisation/profile_picture/000/039/637/crop_original_bp1576754267_DCI_Logo_blue.png" />](https://github.com/Pflanzy/Pflanzy-mobile-app)
+- :mortar_board: Recently graduated from [Digital Career Institute](https://github.com/Pflanzy/Pflanzy-mobile-app)
 - :tulip: Check out the graduation project: [ Pflanzy the plant care app <img  alt="Pflanzy" width="15px" src="https://raw.githubusercontent.com/Pflanzy/Pflanzy-mobile-app/master/assets/images/pflanzy-logo.svg" />](https://github.com/Pflanzy/Pflanzy-mobile-app)
 - :mag_right: Looking for an opportunity as a Junior / Intern
 
