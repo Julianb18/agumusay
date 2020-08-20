@@ -21,7 +21,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://user-images.githubusercontent.com/3984138/51425579-d3636000-1bd5-11e9-93d6-61672d44b0c0.jpg" />
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img align="left" alt="Expo" width="26px" src="https://s3.amazonaws.com/exp-brand-assets/ExpoIcon_200.png" />
+<img align="left" alt="Expo" width="26px" src="https://i.dlpng.com/static/png/348405_preview.png" />
 <img align="left" alt="JQuery" width="26px" src="https://banner2.cleanpng.com/20180320/fie/kisspng-blue-symbol-sphere-logo-jquery-5ab0be393fbeb3.5136133315215324732611.jpg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
