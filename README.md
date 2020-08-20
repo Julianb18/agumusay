@@ -4,7 +4,7 @@
 
 ### Connect with me
 
-<a href="https://www.alisan.dev/" target="_blank" rel="noopener noreferrer"> <img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /> </a>
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.alisan.dev/){target="\_blank"}
 <a href="https://www.linkedin.com/in/ali-san/" target="_blank"  rel="noopener noreferrer"><img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <br />
 
