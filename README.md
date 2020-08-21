@@ -3,7 +3,7 @@
 #### Junior Full-Stack Developer - Constant Learner
 
 - :mortar_board: 1 year Web Development bootcamp with MERN Stack at [Digital Career Institute](https://digitalcareerinstitute.org/)
-- :tulip: Check out the graduation project: [ Pflanzy the plant care app <img  alt="Pflanzy" width="15px" src="https://raw.githubusercontent.com/Pflanzy/Pflanzy-mobile-app/master/assets/images/pflanzy-logo.svg" />](https://github.com/Pflanzy/Pflanzy-mobile-app)
+- :tulip: Check out the graduation project: [ Pflanzy the plant care app <img  alt="Pflanzy" width="15px" src="https://raw.githubusercontent.com/Pflanzy/Pflanzy-mobile-app/master/assets/images/pflanzy-logo.svg" />](https://www.youtube.com/watch?v=D7Pm_C-bJzA&t=2s)
 - :mag_right: Looking for an opportunity as a Junior / Intern
 
 [<img align="left" alt="alisan.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.alisan.dev/)
