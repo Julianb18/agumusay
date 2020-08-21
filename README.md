@@ -1,8 +1,8 @@
 ### Hi there, I'm Ali San 👋
 
-#### Full-Stack Developer - Constant Learner
+#### Junior Full-Stack Developer - Constant Learner
 
-- :mortar_board: Recently graduated from [Digital Career Institute](https://github.com/Pflanzy/Pflanzy-mobile-app)
+- :mortar_board: 1 year Web Development bootcamp with MERN Stack at [Digital Career Institute](https://digitalcareerinstitute.org/)
 - :tulip: Check out the graduation project: [ Pflanzy the plant care app <img  alt="Pflanzy" width="15px" src="https://raw.githubusercontent.com/Pflanzy/Pflanzy-mobile-app/master/assets/images/pflanzy-logo.svg" />](https://github.com/Pflanzy/Pflanzy-mobile-app)
 - :mag_right: Looking for an opportunity as a Junior / Intern
 
