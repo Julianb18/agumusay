@@ -31,4 +31,4 @@
 <br/>
 <br/>
 
-[![Ali San's Github Stats](https://github-readme-stats.vercel.app/api?username=agumusay&hide=stars&show_icons=true&theme=radical)](https://github.com/agumusay/github-readme-stats)
+[![Ali San's Github Stats](https://github-readme-stats.vercel.app/api?username=agumusay&hide=stars&show_icons=true&theme=tokyonight)](https://github.com/agumusay/github-readme-stats)
