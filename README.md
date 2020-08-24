@@ -1,5 +1,3 @@
-### Ali San Gümüsay 👋
-
 #### Junior Full-Stack Developer - Constant Learner
 
 - :mortar_board: 1 year Web Development bootcamp with MERN Stack at [Digital Career Institute](https://digitalcareerinstitute.org/)
