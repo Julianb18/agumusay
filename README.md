@@ -1,4 +1,4 @@
-### Hi there, I'm Ali San 👋
+### Ali San Gümüsay 👋
 
 #### Junior Full-Stack Developer - Constant Learner
 
